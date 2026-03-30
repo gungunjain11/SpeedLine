@@ -2,6 +2,8 @@
 
 🚄 **Real-time Train Traffic Monitoring with AI-Driven Optimization**
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://speed-line-frontend.vercel.app/)
+
 A comprehensive Next.js dashboard for monitoring railway operations, featuring live train tracking, disruption management, and AI-powered optimization recommendations.
 
 ## 🌟 Features
